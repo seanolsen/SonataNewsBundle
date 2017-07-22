@@ -23,7 +23,7 @@
         "symfony/framework-bundle": "^2.3 || ^3.0",
         "symfony/templating": "^2.3",
         "sonata-project/admin-bundle": "^3.4",
-        "sonata-project/user-bundle": "^3.0",
+        "sonata-project/user-bundle": "^3.0 || dev-master",
         "sonata-project/media-bundle": "^3.0",
         "sonata-project/classification-bundle": "^3.0",
         "sonata-project/formatter-bundle": "^3.0",
